@@ -1,0 +1,8 @@
+package Auto;
+
+public class Auto {
+	String modelo;
+	int precio;
+	Array[Asiento] asientos;
+	
+}

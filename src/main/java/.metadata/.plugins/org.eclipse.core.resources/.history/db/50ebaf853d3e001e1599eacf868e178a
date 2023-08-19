@@ -1,0 +1,10 @@
+package Auto;
+
+public class main {
+	public static void main(String[] args) {
+		Motor m = new Motor();
+		m.numeroCilindros = 4;
+		m.registro = 142;
+		m.tipo = "electrico";
+	}
+}

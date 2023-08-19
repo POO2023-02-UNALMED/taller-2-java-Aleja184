@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Usuario\OneDrive\Escritorio\U\Cuarto Semestre\POO\Taller2Practica\taller-2-java-Aleja184\src\main\java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1679811482.index
