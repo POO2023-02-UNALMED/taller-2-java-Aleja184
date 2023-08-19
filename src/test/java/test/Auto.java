@@ -3,7 +3,7 @@ package test;
 public class Auto {
 	String modelo;
 	int precio;
-	Asiento asientos[];
+	Asiento[] asientos;
 	String  marca;
 	Motor motor;
 	int registro;
@@ -20,6 +20,8 @@ public class Auto {
 					return "Las piezas no son originales";
 				}
 			}
+		}else {
+			return "Las piezas no son originales";
 		}
 		return "Auto original";
 	}
