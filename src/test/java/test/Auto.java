@@ -10,11 +10,7 @@ public class Auto {
 	static int cantidadCreados;
 	
 	int cantidadAsientos() {
-		if(asientos.length<=4) {
-			return asientos.length;
-		}else {
-			return false;
-		}
+		return asientos.length;
 	}
 	
 	String verificarIntegridad() {
