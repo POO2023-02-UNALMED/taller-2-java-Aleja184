@@ -3,14 +3,14 @@ package test;
 public class Auto {
 	String modelo;
 	int precio;
-	Asiento[] asientos;
+	Asiento[4] asientos;
 	String  marca;
 	Motor motor;
 	int registro;
 	static int cantidadCreados;
 	
 	int cantidadAsientos() {
-		return asientos.length;
+		return 4;
 	}
 	
 	String verificarIntegridad() {
